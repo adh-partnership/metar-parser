@@ -3,7 +3,7 @@
 
 Parse METAR information into structured JavaScript object. The structure of the returned object is closely related to the [API response of CheckWX](https://api.checkwx.com/#metar-fields).
 
-Installation: `npm install aewx-metar-parser --save`
+Installation: `npm install adh-metar-parser --save`
 
 Functionality
 -------------

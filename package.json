@@ -1,5 +1,5 @@
 {
-  "name": "aewx-metar-parser",
+  "name": "adh-metar-parser",
   "version": "1.0.0",
   "description": "Parse METAR information into structured JavaScript object",
   "directories": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fboes/metar-parser.git"
+    "url": "git+ssh://git@github.com/adh-partnership/metar-parser.git"
   },
   "devDependencies": {
     "eslint": "^8.18.0",
@@ -28,10 +28,10 @@
     "metar",
     "weather"
   ],
-  "author": "Frank Boës <info@3960.org> (https://3960.org/)",
+  "author": "Daniel Hawton <daniel@hawton.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fboes/metar-parser/issues"
+    "url": "https://github.com/adh-partnership/metar-parser/issues"
   },
-  "homepage": "https://github.com/fboes/metar-parser#readme"
+  "homepage": "https://github.com/adh-partnership/metar-parser#readme"
 }
